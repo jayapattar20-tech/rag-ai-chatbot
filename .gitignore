@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .env
 __pycache__/
 *.pyc
 .DS_Store
 faiss_index/
+=======
+.env
+__pycache__/
+*.pyc
+.DS_Store
+faiss_index/
+>>>>>>> 71a728e1e4ae005c49b7de29d049adc7c81cd51b
 uploaded_*.pdf
